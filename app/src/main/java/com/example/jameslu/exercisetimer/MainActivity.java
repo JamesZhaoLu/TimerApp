@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private Chronometer mChronometer;
 
     private long lastPause;
-
+    //Just a useless comment I'll be working more on this in the upcoming week
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
